@@ -5,7 +5,7 @@ There are total 10 Question with multiple choice question. Once the user clicks 
 
 Objective :- The goal is to create a quiz that tests the basic technical knowledge of an user.
 
-Mods:sohamkantijana(@Sohamkantijana)
-     Stuti jain (@Stutijain24)
-     Sohan Sharma(@Sohansharma246)
+Mods:parag sharma(@paragsharma12)
+     mayank raguwanshi (@Mayank1410)
+     nikhil sahu(@nikils1206)
      
